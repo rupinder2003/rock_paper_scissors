@@ -1,4 +1,3 @@
-# rock_paper_scissors
 # Rock, Paper, Scissors Game
 
 Welcome to the Rock, Paper, Scissors game project! This is a simple implementation of the classic hand game using Python. The game allows a user to play against the computer, with the outcome determined based on standard game rules.
